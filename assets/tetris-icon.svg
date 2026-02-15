@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Tetris icon">
+  <rect width="128" height="128" rx="20" fill="#1b1d2a"/>
+  <rect x="18" y="18" width="92" height="92" rx="10" fill="#0d0f18" stroke="#2a2f45" stroke-width="4"/>
+
+  <!-- I piece -->
+  <rect x="28" y="30" width="16" height="16" fill="#44d9e6"/>
+  <rect x="44" y="30" width="16" height="16" fill="#44d9e6"/>
+  <rect x="60" y="30" width="16" height="16" fill="#44d9e6"/>
+  <rect x="76" y="30" width="16" height="16" fill="#44d9e6"/>
+
+  <!-- L piece -->
+  <rect x="28" y="54" width="16" height="16" fill="#ffac5e"/>
+  <rect x="44" y="54" width="16" height="16" fill="#ffac5e"/>
+  <rect x="60" y="54" width="16" height="16" fill="#ffac5e"/>
+  <rect x="60" y="70" width="16" height="16" fill="#ffac5e"/>
+
+  <!-- T piece -->
+  <rect x="76" y="54" width="16" height="16" fill="#b26cff"/>
+  <rect x="92" y="54" width="16" height="16" fill="#b26cff"/>
+    <rect x="92" y="70" width="16" height="16" fill="#b26cff"/>
+
+  <text x="64" y="106" text-anchor="middle" font-size="15" font-family="Arial, sans-serif" fill="#f2f2f7">TETRIS</text>
+</svg>
